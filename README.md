@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87ceeb)
 ![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87ceeb)
 ![](https://img.shields.io/badge/<Forecasting>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87ceeb)
-![](https://img.shields.io/badge/<Predictive Modeling>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87ceeb)
+![](https://img.shields.io/badge/<PredictiveModeling>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87ceeb)
 ![](https://img.shields.io/badge/<Vizualization>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87ceeb)
 
 - 🔭 I'm currently working on implementing my research skills to solve real-world problems and bring value to the organization.
