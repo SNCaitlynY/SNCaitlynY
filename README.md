@@ -34,5 +34,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" title="Neo4j" alt="Neo4j" width="40" height="40"/>&nbsp;
 </div>
 
+## Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SNCaitlynY&theme=tokyonight&background=000000)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SNCaitlynY&show_icons=true&theme=tokyonight)
