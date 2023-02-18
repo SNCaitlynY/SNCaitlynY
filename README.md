@@ -17,4 +17,5 @@
 - 🤔 I’m looking for help with how to become a better researcher!
 - 📫 How to reach me: https://www.linkedin.com/in/caitlyn-yen/
 
-
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SNCaitlynY&theme=tokyonight&background=000000)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SNCaitlynY&show_icons=true&theme=tokyonight)
