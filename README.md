@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/><br />
   <img src="https://media.giphy.com/media/KgFD8lRvyPDi9PGnrJ/giphy.gif" width="130" height="130"/>
 </div>
+
 ## About Me
 ![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87ceeb)
 ![](https://img.shields.io/badge/<Pytorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87ceeb)
